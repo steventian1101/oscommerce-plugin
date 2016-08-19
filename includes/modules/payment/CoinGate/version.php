@@ -1,0 +1,3 @@
+<?php
+
+define('COINGATE_OSCOMMERCE_EXTENSION_VERSION', '1.0.0');
