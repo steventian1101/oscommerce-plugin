@@ -2,7 +2,9 @@
 
 ## Install
 
-Sign up for CoinGate account at https://coingate.com for production and https://sandbox.coingate.com for testing (sandbox) environment.
+Sign up for CoinGate account at <https://coingate.com> for production and <https://sandbox.coingate.com> for testing (sandbox) environment.
+
+Please note, that for "Test" mode you **must** generate separate API credentials on <https://sandbox.coingate.com>. API credentials generated on <https://coingame.com> will **not** work for "Test" mode.
 
 ### via FTP
 
